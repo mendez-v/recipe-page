@@ -52,6 +52,9 @@ body {
 .fw-700 {
   font-weight: 700; 
 }
+.fw-400 {
+  font-weight: 400;
+}
 .pl-1 {
   padding-left: 1rem;
 }
@@ -143,7 +146,6 @@ body {
   gap: .5rem;
   line-height: 1.5;
 }
-
 
 .nutrition {
   padding: 1.55rem 0 0rem;
