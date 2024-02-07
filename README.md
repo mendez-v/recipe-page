@@ -34,6 +34,8 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 [Live site](https://mendez-v.github.io/recipe-page/) 👀
 
+[Solution in Frontend Mentor](https://www.frontendmentor.io/solutions/recipe-page-bw0MazoaPA) 👀
+
 [All my challenges completed](https://github.com/mendez-v/frontend-mentor-challenges) 👀
 
 ## *Built with*
